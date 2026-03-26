@@ -1,7 +1,7 @@
 # Professional Email Drafts
 
 ## Email 1: Request for Assignment Extension
-**Subject:** Request for Extension: Digital Literacy Project - Deepak Yadav 25BCE10935
+**Subject:** Request for Extension: Digital Literacy Project - Bharat tyagi 25BAS10090
 
 Dear Professor Kannan,
 
@@ -19,7 +19,7 @@ VIT Bhopal University <br>
 ---
 
 ## Email 2: Internship Inquiry
-**Subject:** Summer Internship Inquiry - B.Tech CSE Student - Deepak Yadav
+**Subject:** Summer Internship Inquiry - B.Tech CSE Student - Bharat tyagi
 
 Dear Internship Coordinator,
 
