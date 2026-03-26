@@ -19,7 +19,7 @@ VIT Bhopal University <br>
 ---
 
 ## Email 2: Internship Inquiry
-**Subject:** Summer Internship Inquiry - B.Tech CSE Student - Bharat tyagi
+**Subject:** Summer Internship Inquiry - B.Tech Aerospace Student - Bharat tyagi
 
 Dear Internship Coordinator,
 
